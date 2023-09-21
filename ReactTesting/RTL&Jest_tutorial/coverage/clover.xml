@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1671106360844" clover="3.2.0">
+  <project timestamp="1671106360844" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="3" coveredconditionals="2" methods="2" coveredmethods="2" elements="9" coveredelements="8" complexity="0" loc="4" ncloc="4" packages="1" files="2" classes="2"/>
+    <file name="Greet.tsx" path="/Users/korayeker/Desktop/personal/RTL-Jest-Tutorial/RTL&Jest_tutorial/src/components/greet/Greet.tsx">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+    </file>
+    <file name="Greet2.tsx" path="/Users/korayeker/Desktop/personal/RTL-Jest-Tutorial/RTL&Jest_tutorial/src/components/greet/Greet2.tsx">
+      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="cond" truecount="1" falsecount="0"/>
+      <line num="5" count="2" type="cond" truecount="1" falsecount="1"/>
+    </file>
+  </project>
+</coverage>
